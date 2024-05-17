@@ -1,0 +1,107 @@
+{
+    "ext_title" : {
+        "message" : "Twitter メディアダウンローダ"
+    ,   "description" : "The title of the extension."
+    }
+,   "ext_short_name" : {
+        "message" : "TMDL"
+    ,   "description" : "The short version of the extension's name."
+    }
+,   "ext_description" : {
+        "message" : "Web版Twitterで、ユーザーのメディアタイムラインの原寸画像・動画をまとめてダウンロードできます。"
+    ,   "description" : "The description of the extension."
+    }
+,   "OPTIONS" : {
+        "message" : "Twitter メディアダウンローダ"
+    }
+,   "SET" : {
+        "message" : "設定"
+    }
+,   "DEFAULT" : {
+        "message" : "デフォルトに戻す"
+    }
+,   "ENABLED" : {
+        "message" : "有効"
+    }
+,   "DISABLED" : {
+        "message" : "無効"
+    }
+,   "START" : {
+        "message" : "動作開始"
+    }
+,   "STOP" : {
+        "message" : "動作停止"
+    }
+,   "UNDER_SUSPENSION" : {
+        "message" : "停止中"
+    }
+,   "IMAGE_DOWNLOAD_LINK" : {
+        "message" : "画像ダウンロードボタン"
+    }
+,   "VIDEO_DOWNLOAD_LINK" : {
+        "message" : "動画ダウンロードボタン"
+    }
+,   "DOWNLOAD_LINK" : {
+        "message" : "ダウンロードボタン"
+    }
+,   "IMAGE" : {
+        "message" : "画像"
+    }
+,   "VIDEO" : {
+        "message" : "動画"
+    }
+,   "ENABLE_ZIPREQUEST" : {
+        "message" : "バックグラウンドでのZIP化（パフォーマンス向上）"
+    }
+,   "ENABLE_FILTER" : {
+        "message" : "検索タイムラインでのメディアフィルタ(filter:～使用)"
+    }
+,   "IF_DOWNLOAD_FAILURE" : {
+        "message" : "ダウンロードに失敗する場合"
+    }
+,   "FAST_LOW_ACCURACY" : {
+        "message" : "速い・低精度"
+    }
+,   "SLOW_HIGH_ACCURACY" : {
+        "message" : "遅い・高精度"
+    }
+,   "DEFAULT_ACTION_ON_CLICK_EVENT" : {
+        "message" : "クリック時のデフォルト動作（※[Alt]押下時は逆の動作）"
+    }
+,   "DOWNLOAD_MEDIA" : {
+        "message" : "メディアダウンロード"
+    }
+,   "OPEN_MEDIA_LINK" : {
+        "message" : "メディアのリンクを開く"
+    }
+,   "DOWNLOAD_SIZE_LIMIT_MB" : {
+        "message" : "ダウンロードサイズ制限"
+    }
+,   "ENABLE_VIDEO_DOWNLOAD" : {
+        "message" : "動画ダウンロード"
+    }
+,   "USER_AUTH_REQUIRED" : {
+        "message" : "ユーザー認証が必要"
+    }
+,   "ENABLED_ON_TWEETDECK" : {
+        "message" : "TweetDeck での動作（ダウンロードボタンのみ）"
+    }
+,   "TAB_SORTING" : {
+        "message" : "タブ並び替え"
+    }
+,   "TAB_SORTING_ENABLED" : {
+        "message" : "[1][2][3][4]"
+    }
+,   "AUTO_CONTINUE" : {
+        "message" : "ダウンロード制限到達後の自動継続"
+    }
+,   "DOMATION" : {
+        "message" : "贈り物 🎁 歓迎！"
+    }
+,   "BULK_DOWNLOAD" : {
+        "message" : "一括ダウンロード"
+    }
+,   "BULK_DOWNLOAD_LIKES" : {
+        "message" : "「いいね」一括ダウンロード"
+    }
+}
